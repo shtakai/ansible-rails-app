@@ -1,5 +1,7 @@
 # A small Rails/Sinatra/rack-ready playbook for Ansible
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/ansible-rails-app.svg)](https://www.guardrails.io)
+
 It installs:
 
 - nginx
